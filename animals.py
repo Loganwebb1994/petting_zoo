@@ -7,7 +7,7 @@ class Llama:
       self.date_added = date.today()
       self.walking = True 
       
-miss_fuzz = Llama('Miss Fuzz', 'Llama')
+
 
 class Bison:
     def __init__(self, name, species):
@@ -24,7 +24,7 @@ class Llama:
       self.date_added = date.today()
       self.walking = True 
       
-miss_fuzz = Llama('Miss Fuzz', 'Llama')
+
 class Llama:
     def __init__(self, name, species):
       self.name = name
@@ -32,7 +32,7 @@ class Llama:
       self.date_added = date.today()
       self.walking = True 
       
-miss_fuzz = Llama('Miss Fuzz', 'Llama')
+
 class Llama:
     def __init__(self, name, species):
       self.name = name
@@ -40,7 +40,7 @@ class Llama:
       self.date_added = date.today()
       self.walking = True 
       
-miss_fuzz = Llama('Miss Fuzz', 'Llama')
+
 class Llama:
     def __init__(self, name, species):
       self.name = name
@@ -48,7 +48,7 @@ class Llama:
       self.date_added = date.today()
       self.walking = True 
       
-miss_fuzz = Llama('Miss Fuzz', 'Llama')
+
 class Llama:
     def __init__(self, name, species):
       self.name = name
@@ -56,7 +56,7 @@ class Llama:
       self.date_added = date.today()
       self.walking = True 
       
-miss_fuzz = Llama('Miss Fuzz', 'Llama')
+
 class Llama:
     def __init__(self, name, species):
       self.name = name
@@ -64,7 +64,7 @@ class Llama:
       self.date_added = date.today()
       self.walking = True 
       
-miss_fuzz = Llama('Miss Fuzz', 'Llama')
+
 class Llama:
     def __init__(self, name, species):
       self.name = name
@@ -72,7 +72,7 @@ class Llama:
       self.date_added = date.today()
       self.walking = True 
       
-miss_fuzz = Llama('Miss Fuzz', 'Llama')
+
 class Llama:
     def __init__(self, name, species):
       self.name = name
@@ -80,7 +80,7 @@ class Llama:
       self.date_added = date.today()
       self.walking = True 
       
-miss_fuzz = Llama('Miss Fuzz', 'Llama')
+
 class Llama:
     def __init__(self, name, species):
       self.name = name
@@ -88,7 +88,7 @@ class Llama:
       self.date_added = date.today()
       self.walking = True 
       
-miss_fuzz = Llama('Miss Fuzz', 'Llama')
+
 class Llama:
     def __init__(self, name, species):
       self.name = name
@@ -96,7 +96,7 @@ class Llama:
       self.date_added = date.today()
       self.walking = True 
       
-miss_fuzz = Llama('Miss Fuzz', 'Llama')
+
 class Llama:
     def __init__(self, name, species):
       self.name = name
@@ -104,7 +104,7 @@ class Llama:
       self.date_added = date.today()
       self.walking = True 
       
-miss_fuzz = Llama('Miss Fuzz', 'Llama')
+
 class Llama:
     def __init__(self, name, species):
       self.name = name
@@ -112,7 +112,7 @@ class Llama:
       self.date_added = date.today()
       self.walking = True 
       
-miss_fuzz = Llama('Miss Fuzz', 'Llama')
+
 class Llama:
     def __init__(self, name, species):
       self.name = name
@@ -120,7 +120,7 @@ class Llama:
       self.date_added = date.today()
       self.walking = True 
       
-miss_fuzz = Llama('Miss Fuzz', 'Llama')
+
 class Llama:
     def __init__(self, name, species):
       self.name = name
@@ -128,7 +128,7 @@ class Llama:
       self.date_added = date.today()
       self.walking = True 
       
-miss_fuzz = Llama('Miss Fuzz', 'Llama')
+
 
 
 print(miss_fuzz.name)
